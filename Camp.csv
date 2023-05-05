@@ -1,0 +1,10 @@
+camp,loc,nums,food,shelter,blankets,comms,access,toilets,emergency_index
+Pluto,N Coast,28,Poor,few,needed,OK,Poor,None,0
+Venus,Central,5,Scarce,Needed,Needed,None,Blocked,few,0
+Mars,Hills,31,water,none,5,none,poor,ok,2
+Earth,Central,2,ok,ok,ok,ok,ok,ok,2
+Saturn,North,2,ok,ok,ok,o,ol,ok,1
+Jupiter,Central,8,ok,ok,some,some,poor,none,1
+Ganymede,Coast,0,Some,Fair,Few,Poor,Fair,Basic,4
+Io,Manila,0,None,None,None,None,Blocked,None,5
+Moon,Town centre,0,Basic,Basic,Few,None,V Poor,V bad,3

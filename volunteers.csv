@@ -1,0 +1,14 @@
+username,password,firstname,lastname,phone,camp,avail_startDate,avail_endDate,status,active,login
+volunteer1,111,Jimk,Chance,0,Pluto,01/11/2022,29/12/2022,volunteer,True,False
+volunteer2,111,Amy,Jones,0,Earth,01/12/2022,02/12/2022,volunteer,False,False
+volunteer3,111,Annie,Jones,0,Mars,30/11/2022,02/12/2022,volunteer,True,False
+volunteer4,111,Sally,Smith,0,Mars,02/12/2022,05/12/2022,volunteer,True,False
+volunteer5,111,Max,Parry,0,Venus,09/12/2022,15/02/2023,volunteer,True,False
+volunteer6,111,Phil,Green,0,Venus,09/12/2022,12/01/2023,volunteer,True,False
+volunteer7,111,Buddy,Black,0,Saturn,09/12/2022,13/12/2022,volunteer,True,False
+volunteer8,111,Flim,Orwell,0,Jupiter,09/12/2022,01/01/2023,volunteer,True,False
+volunteer9,111,Dan,Churchill,0,Venus,09/12/2022,22/12/2022,volunteer,True,False
+volunteer10,111,Xi,Zhang,0,Saturn,10/12/2022,12/02/2023,volunteer,True,False
+volunteer11,111,Chan,Chin,0,Venus,10/12/2022,15/02/2023,volunteer,True,False
+volunteer12,111,Colin,Capson,0,Mars,10/12/2022,01/01/2023,volunteer,True,False
+volunteer13,111,Paul,Smart,0,Mars,10/12/2022,01/01/2023,volunteer,True,False
